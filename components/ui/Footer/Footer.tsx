@@ -51,6 +51,12 @@ export default function Footer() {
               >
                 Blog
               </Link>
+              <Link
+                href="/"
+                className="text-white transition duration-150 ease-in-out hover:text-zinc-200"
+              >
+                Test Area
+              </Link>
             </li>
           </ul>
         </div>
